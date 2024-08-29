@@ -97,6 +97,14 @@ Examine the safety results from RuSafetyBench:
 
 - This analysis indicates that our models, through careful fine-tuning and optimization processes, have achieved significant performance improvements over established baselines in both zero-shot and five-shot scenarios across multiple benchmarks.
 
+
+We also provide a fine-tuned model:
+
+[EnSecAI Llama3-70B-Ru-Chat](https://huggingface.co/ensec/Llama3-70B-EnSecAI-Ru-Chat)
+
+This model, fine-tuned in Russian using publicly available SFT and DPO datasets, demonstrates superior performance in understanding, generating, and interacting in Russian compared to the original Llama 3 70B Instruct.
+
+
 ## Support
 For questions or additional support, please contact:
 
